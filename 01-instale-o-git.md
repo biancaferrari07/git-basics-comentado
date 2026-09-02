@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: Aplicativo gráfico do GitHub Desktop para Windows. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: Quando quiser usar Git por uma interface visual no Windows. -->
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: Aplicativo gráfico do GitHub Desktop para macOS. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: Quando quiser usar Git por uma interface visual no macOS. -->
 
 ---
 
@@ -45,19 +45,19 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: Ferramenta de versionamento que funciona em diferentes sistemas operacionais. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: Quando quiser usar Git pelo terminal, independentemente do sistema. -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x] 1. GitHub para Windows
+- [x] 2. GitHub para Mac
+- [x] 3. Git para todas as plataformas
 
 ---
 
