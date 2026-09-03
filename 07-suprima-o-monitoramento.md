@@ -21,11 +21,11 @@ temp-*
 
 **O que este arquivo faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: Arquivo que define o que o Git deve ignorar. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: Para impedir que arquivos indesejados sejam versionados. -->
 
 ---
 
@@ -37,18 +37,18 @@ git ls-files --others --ignored --exclude-standard
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: Lista arquivos que estão sendo ignorados pelo Git. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: Para verificar se as regras do .gitignore estão funcionando. -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [x] 1. Arquivo `.gitignore`
+- [x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
